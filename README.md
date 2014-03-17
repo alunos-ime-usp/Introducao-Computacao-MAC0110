@@ -36,7 +36,7 @@ Conteúdo mínimo para o cabeçalho:
   TAGS:<loop, operacoes com inteiros, basico>
 ----------------------------------------------------------------------------------------------------------------------*/
 ```
-O papel do cabeçalho é permitir uma busca simples e rápida de códigos especcíficos. Por isso contém as informações como  o enunciado, a matéria. O campo TAGS é para toda outra informação relevante ao código, para permitir uma fácil busca de conteúdos.
+O papel do cabeçalho é permitir uma busca simples e rápida de códigos específicos. Por isso contém as informações como  o enunciado, a matéria. O campo TAGS é para toda outra informação relevante ao código, para permitir uma fácil busca de conteúdos.
 
 ## Busca
 O github permite fazer busca dentro dos códigos de um repositório. Para isso, no início de cada página há uma caixa de texto onde se pode digitar o conteúdo que se deseja buscar. Tal ferramenta, junto dos cabeçalhos bem elaborados, vai permitir uma fácil consulta dos códigos aqui guardados.
@@ -45,4 +45,4 @@ O github permite fazer busca dentro dos códigos de um repositório. Para isso, 
 Um pouco de regras é sempre bom para viver bem em comunidade, então vamos lá:
 **NÃO COLOQUEM CÓDIGO DE EP AQUI.**
 Pelo menos antes da entrega.
-**Estamos trabalhando nisso*.
+**Estamos trabalhando nisso**.
