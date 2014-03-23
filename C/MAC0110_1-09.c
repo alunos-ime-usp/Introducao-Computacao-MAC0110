@@ -1,7 +1,11 @@
-/*
- * Coded by Nathan Benedetto Proenca
- * 09/03/2014
- */
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Dado n e dois numeros inteiros positivos i e j, imprimir em ordem crescente os n primeiros naturais que sao multiplos de i ou de j ou de ambos 
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.9
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
+
 
 #include <stdio.h>
 

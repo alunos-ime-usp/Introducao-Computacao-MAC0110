@@ -1,7 +1,10 @@
-/* 
- * Coded by Nathan Benedetto Proenca
- * 09/03/2014
- */
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Dados n e uma sequencia de n numeros inteiros, determinar a soma dos numeros pares
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.7
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
 
 #include <stdio.h>
 

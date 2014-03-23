@@ -1,7 +1,14 @@
-/*
- * Coded by Nathan Benedetto Proenca
- * 09/03/2014
- */
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: O n-esimo numero da sequencia de fibonacci Fn eh dado pela seguinte formula:
+    Fn = 1 se n = 1
+    Fn = 2 se n = 2
+    Fn = F(n-1) + F(n-2)
+    Faca um programa que dado n calcula o Fn .
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.14
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
 
 #include <stdio.h>
 

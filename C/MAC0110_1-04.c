@@ -1,3 +1,11 @@
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Ddos um inteiro x e um inteiro nao negativo n, calcular x^n
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.4
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
+
 #include <stdio.h>
 
 int main()

@@ -1,7 +1,10 @@
-/*
-** Coded by Nathan Benedetto Proenca
-** 09/03/2014
-*/
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Dados o numero n de alunos de uma turma de MAC414 e suas notas da primeira prova, determinar a maior e a menor nota obtidas por essa turma ( nota maxima = 100 e nota minima = 0)
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.6
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
 
 #include <stdio.h>
 
@@ -32,7 +35,7 @@ int main()
     count ++;
   }
 
-  printf("The grades ranged from %d to %d, Mr. Stark.\n", maxGrade, minGrade);
+  printf("The grades ranged from %d to %d, Mr. Stark.\n", minGrade, maxGrade);
   return 0;
 
 }

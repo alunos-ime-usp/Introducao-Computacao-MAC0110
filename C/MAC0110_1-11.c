@@ -1,7 +1,11 @@
-/*
- * Coded by Nathan Benedetto Proenca
- * 09/03/2014
- */
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Dado inteiro positivo p, verificar se p eh primo 
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.11
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
+
 
 #include <stdio.h>
 

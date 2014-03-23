@@ -1,7 +1,10 @@
-/*
- * Coded by Nathan Benedetto Proenca
- * 09/03/2014
- */
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema:Dado um numero natural na base binaria, transforma-lo para a base decimal. 
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.16
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
 
 #include <stdio.h>
 

@@ -1,7 +1,11 @@
-/*
- * Coded by Nathan Benedetto Proenca
- * 09/03/2014
- */
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Dados dois numeros inteiros positivos, determinar o maximo divisor comum entre eles usando o algoritmo de Euclides
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.12
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
+
 
 #include <stdio.h>
 

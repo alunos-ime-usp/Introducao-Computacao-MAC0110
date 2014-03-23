@@ -1,3 +1,11 @@
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Uma loja de discos anota diariamente durante o mes de marco a quantidade de discos vendidos. Determinar em que dia desse mes ocorreu a maior venda e qual foi a quantidade de discos vendidos
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.5
+ *  Referência: livro de exercicios 
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
+
 #include <stdio.h>
 
 int main()

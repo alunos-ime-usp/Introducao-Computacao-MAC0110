@@ -1,7 +1,10 @@
-/*
- * Coded by Nathan Benedetto Proenca
- * 09/03/2014
- */
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema:Dizemos que um inteiro positivo n eh perfeito se for igual a soma de seus divisores positibos diferentes de n. Verificar se um dado numero inteiro eh positivo. 
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.13
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
 
 #include <stdio.h>
 

@@ -1,7 +1,11 @@
-/*
- * Coded by Nathan Benedetto Proenca
- * 09/03/2014
- */
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Dizemos que um numero natural eh triangular se ele eh produto de tres numeros naturais consecutivos. Dado um inteiro nao-negativo n, verificar se n eh triangular
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.10
+ *  Referência: livro de exercicios
+ *  TAGS:loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
+
 
 #include <stdio.h>
 

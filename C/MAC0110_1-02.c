@@ -1,3 +1,11 @@
+/*-------------------------------------------------CABECALHO------------------------------------------------------------
+ *  Enunciado do problema: Dado n, calcula a soma dos n primeiros numeros inteiros positivos 
+ *  Materia: Introducao a Computacao I MAC0110
+ *  Código do problema: 1.2
+ *  Referência: livro de exercicios
+ *  TAGS: loop inteiros basico
+ * ----------------------------------------------------------------------------------------------------------------------*/
+
 #include <stdio.h>
 
 int main()
