@@ -41,6 +41,9 @@ O papel do cabeçalho é permitir uma busca simples e rápida de códigos espec�
 ## Busca
 O github permite fazer busca dentro dos códigos de um repositório. Para isso, no início de cada página há uma caixa de texto onde se pode digitar o conteúdo que se deseja buscar. Tal ferramenta, junto dos cabeçalhos bem elaborados, vai permitir uma fácil consulta dos códigos aqui guardados.
 
+## EPs
+Só postar códigos de EP depois do final do prazo de entrega, caso contrário você pode ser acusado de plágio.
+
 ##Termos de Uso
 Um pouco de regras é sempre bom para viver bem em comunidade, então vamos lá:
 **NÃO COLOQUEM CÓDIGO DE EP AQUI.**
