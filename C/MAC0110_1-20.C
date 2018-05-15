@@ -1,11 +1,15 @@
 /*-------------------------------------------------CABECALHO------------------------------------------------------------
-* Enunciado do problema:Escreva um programa que imprima tds os milhares (4 dígitos) cuja raíz quadrada seja a soma das dezenas
-                        formadas pela divisão acima.
+* Enunciado do problema:Escreva um programa que imprima tds os milhares AABB 
+              cuja raíz quadrada seja a soma das dezenas formadas pela divisão abaixo.
+              dez_1 = AA  // --> AABB / 100
+              dez_2 = BB  \\ --> AABB % 100;
 * Materia: Introducao a Computacao I MAC0110
 * Código do problema: 1.20
 * Referência: livro de exercicios
 * TAGS: funções, inteiros basico
-* ----------------------------------------------------------------------------------------------------------------------*/
+* ----------------------------------------------------------------------------------------------------------------------
+*/
+
 #include <stdio.h>
 int soma (int n)
 {
